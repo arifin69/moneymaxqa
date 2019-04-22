@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description></description>
+   <name>CCSubmitMobile</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <mailRecipient></mailRecipient>
+   <numberOfRerun>0</numberOfRerun>
+   <pageLoadTimeout>30</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <testSuiteGuid>ef9a69ec-2ab9-467f-be82-464aada35f5a</testSuiteGuid>
+   <testCaseLink>
+      <guid>2d1dd1d4-5ac6-4a26-9f94-ff1eb6bca2d0</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Moneymax/CreditCard/Mobile/mobileCC</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>2444ea29-0afe-4ef3-bc4a-e2baf702d370</id>
+         <iterationEntity>
+            <iterationType>RANGE</iterationType>
+            <value>3-3</value>
+         </iterationEntity>
+         <testDataId>Data Files/Profile</testDataId>
+      </testDataLink>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>bb539207-8995-4fcf-bc67-08d0e8044660</id>
+         <iterationEntity>
+            <iterationType>RANGE</iterationType>
+            <value>1-1</value>
+         </iterationEntity>
+         <testDataId>Data Files/DataCC</testDataId>
+      </testDataLink>
+      <variableLink>
+         <testDataLinkId>2444ea29-0afe-4ef3-bc4a-e2baf702d370</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>FirstName</value>
+         <variableId>778140d6-ec23-4e6f-a963-7beada7f84be</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>2444ea29-0afe-4ef3-bc4a-e2baf702d370</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>LastName</value>
+         <variableId>a01b43c7-d3d1-45a5-8473-bc95412b90b2</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>2444ea29-0afe-4ef3-bc4a-e2baf702d370</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>Email</value>
+         <variableId>fd5ab4d3-b897-422f-b4b3-5bc7a42f2e55</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>2444ea29-0afe-4ef3-bc4a-e2baf702d370</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>NoHP</value>
+         <variableId>de7d1e00-0158-4758-a917-67bf07bedda6</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>bb539207-8995-4fcf-bc67-08d0e8044660</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>Monthly Income</value>
+         <variableId>f458f2f6-ce2f-42e7-b38d-4c62396ee331</variableId>
+      </variableLink>
+   </testCaseLink>
+</TestSuiteEntity>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description></description>
+   <name>CarSubmitTablet</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <mailRecipient></mailRecipient>
+   <numberOfRerun>0</numberOfRerun>
+   <pageLoadTimeout>30</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <testSuiteGuid>d690aa1f-c32e-4df7-b049-601af4d87a58</testSuiteGuid>
+   <testCaseLink>
+      <guid>861f3bbf-5092-43f4-9a1c-68f6f4fdeeb4</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Moneymax/CarInsurance/Tablet/TabletCar</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>8d7fb6f7-0662-4e40-8983-d7f721bc7c9f</id>
+         <iterationEntity>
+            <iterationType>RANGE</iterationType>
+            <value>2-2</value>
+         </iterationEntity>
+         <testDataId>Data Files/Profile</testDataId>
+      </testDataLink>
+      <variableLink>
+         <testDataLinkId>8d7fb6f7-0662-4e40-8983-d7f721bc7c9f</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>FirstName</value>
+         <variableId>c59d1ca0-9db6-401a-9f55-3bae4938c890</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>8d7fb6f7-0662-4e40-8983-d7f721bc7c9f</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>LastName</value>
+         <variableId>27536fd1-6dd0-4ca3-910d-86c36f72261b</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>8d7fb6f7-0662-4e40-8983-d7f721bc7c9f</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>Email</value>
+         <variableId>964e0091-cd63-4a68-9136-d10599aa8b21</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>8d7fb6f7-0662-4e40-8983-d7f721bc7c9f</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>NoHP</value>
+         <variableId>aa8b8d04-15c0-4a24-b118-cd2c2bd6e20f</variableId>
+      </variableLink>
+   </testCaseLink>
+</TestSuiteEntity>

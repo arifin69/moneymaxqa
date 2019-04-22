@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description></description>
+   <name>LoanSubmitMobile</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <mailRecipient></mailRecipient>
+   <numberOfRerun>0</numberOfRerun>
+   <pageLoadTimeout>30</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <testSuiteGuid>ec48371e-64d8-4e6c-bc19-c34f70087c57</testSuiteGuid>
+   <testCaseLink>
+      <guid>4d8187bf-f26d-4b5d-a3f5-f062b7191fa6</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Moneymax/Loan/Mobile/mobileLoan</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>f6674e8e-ece2-4451-b10e-ab0ae25fab2a</id>
+         <iterationEntity>
+            <iterationType>RANGE</iterationType>
+            <value>2-2</value>
+         </iterationEntity>
+         <testDataId>Data Files/Profile</testDataId>
+      </testDataLink>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>1e35537d-55e1-4a12-93d6-2548f5401fd5</id>
+         <iterationEntity>
+            <iterationType>RANGE</iterationType>
+            <value>3-3</value>
+         </iterationEntity>
+         <testDataId>Data Files/DataLoan</testDataId>
+      </testDataLink>
+      <variableLink>
+         <testDataLinkId>f6674e8e-ece2-4451-b10e-ab0ae25fab2a</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>FirstName</value>
+         <variableId>b6c7f584-31f9-400d-98b0-3d54354c308e</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>f6674e8e-ece2-4451-b10e-ab0ae25fab2a</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>LastName</value>
+         <variableId>962577a9-a6e5-485d-8415-ce279a083e80</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>f6674e8e-ece2-4451-b10e-ab0ae25fab2a</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>Email</value>
+         <variableId>fd8e1a3c-00ae-40fa-9c47-63ad56a2d1ff</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>f6674e8e-ece2-4451-b10e-ab0ae25fab2a</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>NoHP</value>
+         <variableId>03addf23-7a6c-4462-a1e4-9efe261a457e</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>1e35537d-55e1-4a12-93d6-2548f5401fd5</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>Loan Amount</value>
+         <variableId>73b7f554-1538-4986-8093-c1c81193fb7e</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>1e35537d-55e1-4a12-93d6-2548f5401fd5</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>Monthly Income</value>
+         <variableId>23bdb80c-86a0-46d6-b214-048a731126c9</variableId>
+      </variableLink>
+   </testCaseLink>
+</TestSuiteEntity>

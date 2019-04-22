@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description></description>
+   <name>hsbcCCSubmit</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <mailRecipient></mailRecipient>
+   <numberOfRerun>0</numberOfRerun>
+   <pageLoadTimeout>30</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <testSuiteGuid>96c284b9-1897-4faf-81fc-3a2f9c0bddf6</testSuiteGuid>
+   <testCaseLink>
+      <guid>647fcfb7-8084-4e98-933b-4ccf94eedad7</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Compare Hero/Dekstop/hsbcCC</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>fa1b28d0-c77f-4e2a-88ea-fc1034044898</id>
+         <iterationEntity>
+            <iterationType>RANGE</iterationType>
+            <value>2-2</value>
+         </iterationEntity>
+         <testDataId>Data Files/HeroDataCCHsbc</testDataId>
+      </testDataLink>
+      <variableLink>
+         <testDataLinkId>fa1b28d0-c77f-4e2a-88ea-fc1034044898</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>GrossIncome</value>
+         <variableId>d5a4bf2f-1521-417e-8006-4b1114e53a2d</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>fa1b28d0-c77f-4e2a-88ea-fc1034044898</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>FirstName</value>
+         <variableId>b1b0488b-ede1-4542-be34-2c217e98916c</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>fa1b28d0-c77f-4e2a-88ea-fc1034044898</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>LastName</value>
+         <variableId>7d93e8ff-c67b-4372-8abc-260059298d98</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>fa1b28d0-c77f-4e2a-88ea-fc1034044898</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>NoHP</value>
+         <variableId>8bc6251d-3210-4159-beb6-988c298416e8</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>fa1b28d0-c77f-4e2a-88ea-fc1034044898</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>Email</value>
+         <variableId>b4f43635-deba-42f8-968f-b10badea1bff</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>fa1b28d0-c77f-4e2a-88ea-fc1034044898</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>ICNumber</value>
+         <variableId>0f89042d-fa3c-4b19-8800-4241dcab1bcd</variableId>
+      </variableLink>
+   </testCaseLink>
+</TestSuiteEntity>

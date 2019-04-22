@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description></description>
+   <name>generalCCTabletSubmit</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <mailRecipient></mailRecipient>
+   <numberOfRerun>0</numberOfRerun>
+   <pageLoadTimeout>30</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <testSuiteGuid>3bfc0e01-e747-48aa-8ab9-67eedefc89ee</testSuiteGuid>
+   <testCaseLink>
+      <guid>2efe5510-998a-4215-ab7f-ee03d9f6456b</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Compare Hero/Tablet/generalCreditCardTablet</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>065c5dc0-4ded-41a5-ba5f-11c759a1615a</id>
+         <iterationEntity>
+            <iterationType>RANGE</iterationType>
+            <value>2-2</value>
+         </iterationEntity>
+         <testDataId>Data Files/HeroDataCC</testDataId>
+      </testDataLink>
+      <variableLink>
+         <testDataLinkId>065c5dc0-4ded-41a5-ba5f-11c759a1615a</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>GrossIncome</value>
+         <variableId>8cea743b-b187-405e-91d0-fb497550b507</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>065c5dc0-4ded-41a5-ba5f-11c759a1615a</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>FirstName</value>
+         <variableId>ff56ec71-ab81-42fa-a24d-b7cb20baacf7</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>065c5dc0-4ded-41a5-ba5f-11c759a1615a</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>LastName</value>
+         <variableId>63ab2dbb-cac5-40e6-abf2-84b1647e26ea</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>065c5dc0-4ded-41a5-ba5f-11c759a1615a</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>NoHP</value>
+         <variableId>809b2667-4e39-4c08-8c2b-646d07b6df5d</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>065c5dc0-4ded-41a5-ba5f-11c759a1615a</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>Email</value>
+         <variableId>fdee659f-61fb-4bba-aed3-2df7a9a900ac</variableId>
+      </variableLink>
+   </testCaseLink>
+</TestSuiteEntity>
