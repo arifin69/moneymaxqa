@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>noPartnerCreditCardMobile</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>efaf7bcc-a620-49b4-a895-6b4de1a3eda3</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>5066dba2-3f23-4220-ae27-6bcd53c3692f</id>
+      <masked>false</masked>
+      <name>varGrossIncome</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>84be5698-940c-4b39-969d-5f7a42bbc96a</id>
+      <masked>false</masked>
+      <name>varFirstname</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>221f573e-f4b7-4019-a751-2f1f8d99b3a9</id>
+      <masked>false</masked>
+      <name>varLastName</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>0d22bde6-d5bf-4840-9ba7-e52bca0f12e5</id>
+      <masked>false</masked>
+      <name>varNoHP</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>204f7d7b-7751-40d5-b456-8699446b9475</id>
+      <masked>false</masked>
+      <name>varEmail</name>
+   </variable>
+</TestCaseEntity>

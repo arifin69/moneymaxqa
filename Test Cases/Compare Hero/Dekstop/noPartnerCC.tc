@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>noPartnerCC</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>665eedd9-3201-4c82-b241-d462bc4907c7</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>ccc354c6-dc4d-4fdf-b25a-f2a20628e0f3</id>
+      <masked>false</masked>
+      <name>varGrossIncome</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>98994856-f8c3-45ef-8e8b-d26a06961d31</id>
+      <masked>false</masked>
+      <name>varFirstname</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>e986b930-f319-41e1-ae96-36b37f804d5b</id>
+      <masked>false</masked>
+      <name>varLastName</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>38633d99-f66a-402a-881a-2f6ee652ce93</id>
+      <masked>false</masked>
+      <name>varNoHP</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>15f8c915-19f5-4344-a42c-97e420bb1e65</id>
+      <masked>false</masked>
+      <name>varEmail</name>
+   </variable>
+</TestCaseEntity>

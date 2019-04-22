@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>generalCreditCardTablet</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a6d5d2f8-b4ad-47ba-b190-f2f606dace9b</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>8cea743b-b187-405e-91d0-fb497550b507</id>
+      <masked>false</masked>
+      <name>varGrossIncome</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>ff56ec71-ab81-42fa-a24d-b7cb20baacf7</id>
+      <masked>false</masked>
+      <name>varFirstname</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>63ab2dbb-cac5-40e6-abf2-84b1647e26ea</id>
+      <masked>false</masked>
+      <name>varLastName</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>809b2667-4e39-4c08-8c2b-646d07b6df5d</id>
+      <masked>false</masked>
+      <name>varNoHP</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>fdee659f-61fb-4bba-aed3-2df7a9a900ac</id>
+      <masked>false</masked>
+      <name>varEmail</name>
+   </variable>
+</TestCaseEntity>
