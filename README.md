@@ -1,6 +1,6 @@
 # moneymaxqa
 E2E Testing with Katalon Studio 
-End to End Testing for Website http://moneymax.nextbase.co
+End to End Testing for Website moneymax.nextbase.co
 All Page (Navigation, Section, Test Link Dll) with Katalon
 
 
